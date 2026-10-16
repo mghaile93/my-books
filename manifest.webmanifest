@@ -1,1 +1,1 @@
-{"name":"My Books","short_name":"My Books","start_url":"./","display":"standalone","background_color":"#ffffff","theme_color":"#ffffff","description":"My personal book collection"}
+{"name":"My Books","short_name":"My Books","start_url":"./?app=home-shelves-v2","scope":"./","display":"standalone","background_color":"#ffffff","theme_color":"#ffffff","description":"My personal book collection"}
